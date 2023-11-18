@@ -1,0 +1,6 @@
+
+tif/testing.tif
+tif/testing_groundtruth.tif
+tif/training.tif
+tif/training_groundtruth.tif
+CheckPoint.hdf5
