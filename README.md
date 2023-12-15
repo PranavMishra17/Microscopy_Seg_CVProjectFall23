@@ -6,6 +6,8 @@ The Electron Microscopy Dataset offers a comprehensive view of a 5x5x5 um sectio
 # Objectives
 
 Primary Objective: Develop a segmentation model capable of effectively working with the dataset, striving to achieve the optimal Intersection over Union (IoU) score.
+
 Secondary Objective: Progress to semantic segmentation with the aim to track specific cell bodies throughout the dataset, adding bounding boxes for object detection.
 
+# DOCUMENTATION
 https://github.com/PranavMishra17/Microscopy_Seg_CVProjectFall23/blob/main/CS_415_Project_Final_Report.pdf
